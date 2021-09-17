@@ -4,9 +4,9 @@ El equipo está conformado por:
 
 David Alejandro González Ibarra A01633817
 
-Fernando López Gómez A01639715
 
-Diego Sebastían 
+
+
 
 Este es nuestro proyecto para la Semana Tec: Herramientas computacionales: el arte de la programación 
 
