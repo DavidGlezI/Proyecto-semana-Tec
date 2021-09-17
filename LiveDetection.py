@@ -1,6 +1,6 @@
 
 import cv2
-import numpy as np
+
 def resize(img,new_width=500):
     height,width,_ = img.shape
     ratio = height/width
