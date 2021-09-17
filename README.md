@@ -4,9 +4,11 @@ El equipo está conformado por:
 
 David Alejandro González Ibarra A01633817
 
-Diego Sebastían
+Fernando López Gómez A01639715
 
-Este es nuestro proyecto para la Semana Tec: 
+Diego Sebastían 
+
+Este es nuestro proyecto para la Semana Tec: Herramientas computacionales: el arte de la programación 
 
 ## Instalación de dependencias
 
@@ -21,7 +23,7 @@ pip install numpy
 
 Tomamos el código base del siguiente video:
 
-El código original está en el archivo GaussianBlur.py. Es un simple código que añade un blur a un video en tiempo real.
+El código original está en el archivo GaussianBlur.py es un simple código que añade un blur a un video en tiempo real.
 
 Modificamos el código para quedarnos con dos archivos: PhotoDetection.py y LiveDetection.py
 
