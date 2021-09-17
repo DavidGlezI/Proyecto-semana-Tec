@@ -4,11 +4,12 @@ El equipo está conformado por:
 
 David Alejandro González Ibarra A01633817
 Fernando López Gómez A01639715
+Diego Sebastian Garcia Cabrera A01634071
 
 
 
 
-Este es nuestro proyecto para la Semana Tec: Herramientas computacionales: el arte de la programación 
+Este es nuestro proyecto para la Semana Tec: Herramientas computacionales: el arte de la programación
 
 ## Instalación de dependencias
 
@@ -29,7 +30,7 @@ Modificamos el código para quedarnos con dos archivos: PhotoDetection.py y Live
 
 El primero toma una foto, identifica las caras y aplica un rectángulo negro encima de ellas para conservar el anonimato.
 
-El segundo archivo, LiveDetection.py hace lo mismo pero en formato de video en tiempo real mediante una webcam. 
+El segundo archivo, LiveDetection.py hace lo mismo pero en formato de video en tiempo real mediante una webcam.
 
 
 ## Referencias
