@@ -31,3 +31,4 @@ El segundo archivo, LiveDetection.py hace lo mismo pero en formato de video en t
 
 
 ## Referencias
+Aadil Jan. ["Code Bear"] (19/09/2020). Blur Faces in Realtime With Python and OpenCv | python project. Youtube. https://www.youtube.com/watch?v=1uEfwAOvrYM&ab_channel=CodeBear
