@@ -13,11 +13,10 @@ Este es nuestro proyecto para la Semana Tec: Herramientas computacionales: el ar
 
 ## Instalación de dependencias
 
-Utilizar el instalador de paquetes [pip](https://pip.pypa.io/en/stable/) para las siguientes dependencias:
+Utilizar el instalador de paquetes [pip](https://pip.pypa.io/en/stable/) para Opencv:
 
 ```bash
 pip install opencv-python
-pip install numpy
 ```
 
 ## Uso y propósito
