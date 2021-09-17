@@ -23,7 +23,7 @@ while True:
 
         cv2.imshow("output",frame)
 
-    if cv2.waitKey(1) & 0xFF == ord("q"):
+    if cv2.waitKey(1) & 0xFF == ord("a"):
         break
 
 cap.release()
